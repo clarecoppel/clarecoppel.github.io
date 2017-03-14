@@ -1,14 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
 body {
 	
 	text-align: center;
 	background: black;
 	background-size: cover;
 	color: #fff;
-	font-family: Helvetica;
+	font-family: 'Roboto', sans-serif;
 }
 
 h1 {
 	text-align: center;
+	
 }
 
 h2 {
