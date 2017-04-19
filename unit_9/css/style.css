@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+body {
+	
+	text-align: center;
+	background: gray;
+	background-size: cover;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+
+header { 
+background-color: gray;
+border: 1px black solid;
+padding: 20px;
+ }
+
+nav {
+	background-color: gray;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+#two_column {
+	background-color: gray;
+	border: 1px black solid;
+	padding: 20px;
+}
+#left {
+	background-color: gray;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: gray;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+article { 
+background-color: gray;
+border: 1px black solid;
+padding: 20px;
+ }
+
+ footer {
+ 	background-color: gray;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+
+ div/section{
+ 	background-color: gray;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+
+
+h1 {
+	text-align: center;
+	
+}
+
+h2 {
+	text-align: center;
+	font-style: italic;
+}
